@@ -8,10 +8,10 @@ Student ID: 101352126
 Open a terminal in this project folder. Node.js is required. No extra packages are needed.
 
 ```bash
-node question1/lowerCaseWords.js
-node question2/promises.js
-node question3/add.js
-node question3/remove.js
+node Q1/lowerCaseWords.js
+node Q2/promises.js
+node Q3/add.js
+node Q3/remove.js
 ```
 
 Question 1 keeps only strings and changes them to lowercase. The function returns a promise and rejects input that is not an array.
